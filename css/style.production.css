@@ -214,6 +214,7 @@ button:focus,
   -o-transition: 0.2s opacity;
   transition: 0.2s opacity;
 }
+
 button {
   /* overwrites browser defaults */
   /* resets the border */
